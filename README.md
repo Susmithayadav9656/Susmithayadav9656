@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susmitha</h1>
 <h3 align="center">A Passionate Data Aspirant</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif " align="right" width="400" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bairaagani lakshmi susmitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bairaagani lakshmi susmitha" height="30" width="40" /></a>
